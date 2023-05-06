@@ -3,4 +3,5 @@ Proyect for Android Bootcamp. An costumer registration and appointment manager f
 Made with Kotlin on Android Studio
 
 
-![WhatsApp Image 2023-05-05 at 6 18 58 PM](https://user-images.githubusercontent.com/122318914/236577899-0fc2c1f2-0b5c-49e2-8ac2-84029dc04cc6.jpeg)
+
+![chrome-capture-2023-4-5](https://user-images.githubusercontent.com/122318914/236587505-fd7f5aad-12e1-4040-8e24-fb0cf7beef33.png)
