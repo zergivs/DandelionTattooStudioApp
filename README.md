@@ -4,4 +4,5 @@ Made with Kotlin on Android Studio
 
 
 
-![chrome-capture-2023-4-5](https://user-images.githubusercontent.com/122318914/236587505-fd7f5aad-12e1-4040-8e24-fb0cf7beef33.png)
+
+![chrome-capture-2023-4-11](https://github.com/zergivs/DandelionTattooStudioApp/assets/122318914/faec6544-b3ec-4e72-ac38-024b45692494)
